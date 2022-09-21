@@ -1,3 +1,12 @@
+"""
+Projekt_3.py: Třetí projekt do Engeto Online Python Akadeie
+
+author: Jiří Mlčkovský
+email: jiri.mlckovsky.obchod@obchod.cz
+discord:nemám založený profil na discordu
+"""
+
+
 from bs4 import BeautifulSoup as BS
 import requests
 import sys
